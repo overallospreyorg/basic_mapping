@@ -3,6 +3,7 @@
 ### hw-backlog
 
 `hw4 : `https://github.com/pclassoffloading/hw-backlog/tree/master/hw4
+<br>`hw3 : `https://github.com/pclassoffloading/floatingPointConversion/blob/master/hw3_part2
 <br>`hw2 : `https://github.com/pclassoffloading/hw-backlog/tree/master/hw2
 <br>`hw1 : `https://github.com/pclassoffloading/hw-backlog/tree/master/hw1
 
