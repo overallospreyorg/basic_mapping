@@ -1,7 +1,7 @@
 
-<pre>
+```
 Six-XE-Appendix A : https://github.com/pclassoffloading/SIC-XE-Instructions
-</pre>
+```
 hw-backlog
 <pre>
   hw4 : https://github.com/pclassoffloading/hw-backlog/tree/master/hw4
